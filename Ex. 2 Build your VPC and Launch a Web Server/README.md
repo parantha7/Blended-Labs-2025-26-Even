@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: PARANTHAMAN S
-* **Register Number**: 212224040232
-* * **Date of Submission**: 27-02-2026
+* **Name**   : PARANTHAMAN S
+* **Reg No.**: 212224040232
+* **Date of Submission**: 27-02-2026
 ---
 
 ## Objective
