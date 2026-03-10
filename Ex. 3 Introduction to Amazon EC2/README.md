@@ -151,7 +151,8 @@ I confirmed the termination and observed that the instance state changed to “T
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-<img width="1903" height="1140" alt="Screenshot 2026-02-26 132823" src="https://github.com/user-attachments/assets/2809caac-3a6b-4d6e-bb47-5c86a6170941" />
+<img width="1919" height="1199" alt="Screenshot 2026-02-27 094157" src="https://github.com/user-attachments/assets/9a38f507-e2d9-4144-87d9-2ca9a373cf90" />
+
 
 
 ---
